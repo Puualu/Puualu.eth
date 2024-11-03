@@ -10,15 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Welcome to My Site
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is the official site for puualu.eth, where you can find project updates, learn about my work, and support through donations.
 
-## Header 2
+## Support Us
+Your support is appreciated! Donations can be sent directly to [puualu.eth](https://etherscan.io/enslookup?q=puualu.eth).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## NFT Gallery
+Check out some of the latest NFTs in the gallery.
+
 
 ### Header 3
 
