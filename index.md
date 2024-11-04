@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Welcome to My Site
+# Global change begins within..
 
-This is the official site for puualu.eth, where you can find project updates, learn about my work, and support through donations.
+This is the official site for puualu.eth, where you can find project updates, learn how to participate in important work.  Payments and Donations support local movements happening.
 
 ## Support Us
 Your support is appreciated! Donations can be sent directly to [puualu.eth](https://etherscan.io/enslookup?q=puualu.eth).
