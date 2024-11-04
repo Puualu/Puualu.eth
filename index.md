@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Global change begins within..
 
 This is the official site for puualu.eth, where you can find project updates, learn how to participate in important work.  Payments and Donations support local movements happening.
@@ -10,6 +6,7 @@ This is the official site for puualu.eth, where you can find project updates, le
 Your support is appreciated! Donations can be sent directly to [puualu.eth](https://etherscan.io/enslookup?q=puualu.eth).
 
 ## NFT Gallery
+[Visit My OpenSea Profile](https://opensea.io/puualu.eth) <!-- Link directly to your NFTs if hosted on OpenSea or similar -->
 Check out some of the latest NFTs in the gallery.
 <!DOCTYPE html>
 <html lang="en">
