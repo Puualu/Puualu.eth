@@ -1,5 +1,8 @@
-title: Cayman theme
-description: Project Payment and Support Center
-show_downloads: true
-google_analytics:
+title: "puualu.eth Official Site"
+description: "Updates, NFT Gallery, and Donation Support for puualu.eth"
 theme: jekyll-theme-cayman
+
+# Custom styling
+markdown: kramdown
+kramdown:
+  input: GFM
